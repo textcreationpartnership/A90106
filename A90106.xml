@@ -1,0 +1,173 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Occasional essay by way of parable, in vindication of the ejected ministers from the usual scandal of a schismatical seperation</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1673</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90106</idno>
+            <idno type="STC">Wing O123S</idno>
+            <idno type="STC">ESTC R231925</idno>
+            <idno type="EEBO-CITATION">99897514</idno>
+            <idno type="PROQUEST">99897514</idno>
+            <idno type="VID">133299</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90106)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 133299)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2504:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Occasional essay by way of parable, in vindication of the ejected ministers from the usual scandal of a schismatical seperation</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>Printed Anno 1673.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Copy at reel 2504:4 bound and filmed with title page to "A vindication of the King. ... London, Printed Anno Domini, 1642."</note>
+                  <note>Reproduction of original in the Trinity College Library, Dublin.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Clergy --  Office --  Early works to 1800.</term>
+               <term>Dissenters, Religious --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:133299:1"/>
+            <pb facs="tcp:133299:1" rendition="simple:additions"/>
+            <p>AN OCCASIONAL ESSAY By way of PARABLE, In Vindication of the EJECTED MINISTERS FROM The uſual SCANDAL OF A SCHISMATICAL SEPERATION.</p>
+            <p>
+               <hi>Sic parvis componere magna ſolebam.</hi>
+            </p>
+            <q>For every man ſhall bear his own Burthen,
+<bibl>
+                  <hi>Gal. 6.5.</hi>
+               </bibl>
+            </q>
+            <p>Printed <hi>Anno</hi> 1673.</p>
+         </div>
+         <div type="publisher_to_the_reader">
+            <pb facs="tcp:133299:2"/>
+            <opener>
+               <salute>READER,</salute>
+            </opener>
+            <p>IT became known to ſeveral of my acquaintance, that I had obtained the liberty of tranſcribing this little paper, who were alſo inſtant with me to have a ſight thereof, and whom I could not well deny; That I might the more commodiouſly acquit me of my promiſe, I have taken the boldneſs to pro<g ref="char:EOLhyphen"/>cure its publication. The innocency of the Author, and his Alluſion, will be his undoubted vindication, while my onely plea muſt be the integrity of my in<g ref="char:EOLhyphen"/>tentions, if I have thereby offended, either him, or thee.</p>
+            <closer>
+               <salute>Farewell.</salute>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:133299:2"/>
+            <opener>
+               <salute>SIR.</salute>
+            </opener>
+            <p>I Acknowledg my ſelf not a little oblig'd for your great kindneſs, in giving me an intimation, that an account (in writting) is expected, of the Diſcourſe (if I may ſo call it) which I a while ſince had, with an ingenuous ſober Friend: And yet (I know not how) ſo little have I been concern'd, or ſo backward to any further Conteſt; that had I not been reminded by others, and inſinuated of indiſcretion, or ſome<g ref="char:EOLhyphen"/>thing worſe, as raſhly pretending to what I durſt not undertake. I had at laſt laid aſide all further thoughts thereof, and ſate down in Silence: not that I ſuſpected, leaſt that ſuddain and occaſional. Talk might be found liable to any juſt blame, it being onely meant as an innocent Eſſay, if happily under the Covert of a familiar Parable, I might get within ſome man of Reſolution (ſhould any ſuch be there preſent.) And who knew, but though he were guarded by an invincible prejudice) I might thus win from him ſuch terms of Favor for the poor ejected Miniſters, as by open force of Reaſon (how convincing ſoever) no man living could have extorted.</p>
+            <p>The truth is I am apt to beleive that they are not ſo deeply plung'd into the guilt of <hi>Schiſm,</hi> as has been ſaid: Nor am I yet ſatisfyed, that they have been dealt withal, by ſome of the ſame <hi>Tribe,</hi> in that Cour<g ref="char:EOLhyphen"/>teous and obligeing Sort, as is generally believ'd, and as, its poſſible, they might have deſerv'd: And I muſt be ſo bold to profeſs, that though I have deliberately conſider'd what I then offer'd, and judge it much too mean to give us the Trouble of this Review, yet I cannot diſcover, wherein lies any juſt exception againſt it, as to what was plainly de<g ref="char:EOLhyphen"/>ſign'd, and indeed material, but that it may fully accord with what I would have repreſented, and fairly reach the end propoſed: Yet if it ſhall be made appear, that I am miſtaken in the maine, or in any Cir<g ref="char:EOLhyphen"/>cumſtance which may invalidate what I have undertaken; I promiſe my ſelf ready to be inform'd, ſhall willingly give up the Gantlet, and on Conviction retract my Error: But as for little quibbling exceptions againſt words or phraſes; or idle excurſions into any <hi>by</hi> matter, beſides my chief Deſign; as I cannot exſpect them from ſuch Inginuity, ſo if I afford them any other Anſwer, but Contempt, I ſhould believe my Pains to be ill beſtowed.</p>
+            <p>The Gentleman, as you very well know, (to whom I deſire this paper, together with my real Reſpects be preſented; who alſo ſtands ready prepared to take up the Cudgels, as ſoone as I ſhall have entred the Liſts) was a great part of our Diſcourſe; his particular Antipathy
+<pb n="4" facs="tcp:133299:3"/>having occaſiond the Alluſion which was, as you may remember, very much to this purpoſe.</p>
+            <p>There were deſignedly met together ſeveral perſons of good worth, all as if was pretended and thought, very good Friends: They were invited to that friendly meeting, by their common Benefactor, to whom they all owed a great deale of Reſpect and Honour; ſomthing alſo of no ſmall Concern was to have been promoted by their joynt indeavors: Amongſt theſe, there was one (or more) who had a known Antipathy againſt a particular Creature, ſuppoſe a Cat, for that was the Inſtance; ſo great that it was impoſſible for him to indure her in his preſence: It ſo happens that a luſty Puſs (I will not ſay a foul black one) it is ſufficient a Cat, is diſcover'd in the Room: Nor is it to our purpoſe how ſhe came thither; but there ſhe is, and as ſoon in the Gentlemans Eye: Whereupon he finds a ſuddain faintneſs to ſeize on, and ſurpriſe him; qualms come over his Stomack; his Spirits are diſturb'd, and he ſo far, that it becomes plainly legible both in his Countenance and Behaviour: wherefore he makes his Application to the Company, and ſoberly acquaints them with the uneaſy Condition wherein he finds himſelf.</p>
+            <p>Gentlemen, (he is ſuppoſed to ſay) I am extream loath to be the Occaſion, much more the Author of any Diſturbance: nor am I leſs unwilling to break off from, and deſert ſo advantageous a Society: and thereby (as its probable) fruſtrate the worthy Deſign of our noble and honour'd Friend; who is gratiouſly pleaſed to give unto us the happy opportunity of this preſent meeting: Yet ſo it is, and ſuch I will confeſs, is my real Weakneſs; that I cannot beare the preſence of yonder little Creature: Some here (it is poſſible) may think meanly of, if not contemn and deſpiſe me on this very Account: But it might better become them to be thankful, that they are ſo happy in their own Tempers and Conſtitutions, and not to inſult over the Infirmities of their weaker Brethren. But now, that I look a little more narrowly, I conceive there may be more then one of thoſe Animals, but that is not at all to be conſider'd: my Averſation is from the whole Species or kind; and I can no more bear the preſence of one than of an hundred: I am not conſcious to my ſelf, that I have deſerv'd ſo Ill; but that I may be preferr'd before a Cat. And I think I may (without Vanity) acquaint you, that I conceive my Company may be of ſome Advantage to your Society: Some there are, of your, and my, very good Friends; who have prevail'd with me to believe, that I may be ſome way uſeful to promote the ends of our preſent meeting: My deſire is, that the Car may be remov'd and I permitted to tarry here.</p>
+            <pb n="5" facs="tcp:133299:3"/>
+            <p>At the firſt bluſh the Gentlemans demand appears (in my Opinion) to be juſt and reaſonable: Nor did I obſerve, when I made this Relation, that there was any any preſent, how prepoſſeſed ſoever, but he ſo judg'd; Whereupon I thus proceeded with my Story.</p>
+            <p>On this civil and humble Addreſs, there preſently ariſes, beyond all expectation, a warm Debate: which diſcover'd its ſelf, at firſt, in a confuſed noiſe, and little murmurings; but after a while breaks forth into a more open, and obſerveable Conteſt: on which occaſion, ſome one or more, (whoſe Conſtitutions oblig'd them to be tender, and more mild) deliver their Opinions in theſe, or the like Words.</p>
+            <p>Friends, We underſtand this Gentleman to be a courteous and ſober Perſon; and as ſuch he has behaved himſelf, ever ſince he came into our Company: If heretofore he has been ſuſpected of ſome extrava<g ref="char:EOLhyphen"/>gancy, <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r any of his acquantance been obnoxious, our Worthy, Gen<g ref="char:EOLhyphen"/>erous, and ever honour'd Friend, who gives us this kind meeting, and was much more concern'd, then we can be ſuppoſed, has alſo ingag'd us to paſs it over in Oblivion: His Company, I am ſure, is very agree<g ref="char:EOLhyphen"/>able unto many of us; And as for yonder little beaſt, it is plainly indifferent unto any here, (as we all acknowledg) whether ſhe be con<g ref="char:EOLhyphen"/>tinued, or removed: If ſhe remain, I know not of any real good may be thence expected; and if ſhe be quietly turn'd going, without any noiſe, there will not thence accrew, in my judgment, (and I ſuppoſe in yours) any prejudice at all unto our meeting: She is but a Cat, at the beſt but an impertinence; for my part, and (I am confident) I ſpeak the thoughts of many more, let her be remov'd: nay I might have ſuggeſted; that we are bound in Civility, and good Manners, and on ſeveral other Accounts, to reſolve on her preſent Removal; let her be inſtantly gone.</p>
+            <p>The honeſt man with his Antipathy, you will eaſily imagine, ſtands all this while in a cold ſweet, deſirous (with ſome kind of impatience) to underſtand, what may at length be his finall Doom; and from this favorable and juſt Apology begins to promiſe himſelf a ſuddain Relief, but ſtand there he may, and ſweat out his Heart; for there are others, and thoſe a little more Crafty, and I think ſomthing too ſevere, who had reſolv'd to oppoſe themſelves, and their Intereſt (which was not then inconſiderable) againſt all this, that had been propoſed: He has deluded himſelf with a vain Hope; and on a ſuddain he hears rattling about his eares, this, or the like, bluſtering tempeſtuous Reply.</p>
+            <p>For our parts (and I ſhall ſpeak as it becomes me in the plural, we do not conceive our ſelves to be concern'd, to gratify yonder ſtubborn Fellow in his peviſh Demands: His pretences, it is true, may carry
+<pb n="6" facs="tcp:133299:4"/>along with them ſome ſhew of Reaſon: But we very well know, that all is but Humor, and Obſtinacy: That is the plain, and whole of the matter, and we are not bound to beſtow on him any better belief: If he will he may tarry, and if he chooſes to leave the Company it is his own Fault. He has his liberty, he may depart if he ſo liſts: which ſhould he do, and thereby incurr any prejudice, he may fairely thank himſelf, and his peviſhneſs; we do him no wrong at all: ſuppoſe he indeed ſhould have that real Antipathy, which he would beare us in hand he hath; he muſt then be content to beare the infelicities to which his unhappy <hi>Craſis</hi> has expoſed him: We ſhall not ſcruple to allow him, that it is a thing indifferent (as has been alſo offer'd) whether that little Animal he remov'd or continued with us; Yet why ſhould we humor him in his particular Fancies? Though we do not pretend, that our meeting is advantag'd by her preſence; yet, neither is ſhe offenſive to the greater number: And as for him, I know not what Reaſon any of us have to concern our ſelves, about him, or be fond of his Company: I hope we ſhall be able enough to diſpatch what we have to do with<g ref="char:EOLhyphen"/>out his concurrence: The fewer alſo the better Chear: we will retain the Cat, ſhe ſhall not be remov'd: And ſo fare you well (good Sir) with your ſqueamiſh Antipathy.</p>
+            <p>The Reſult is; the Cat is continued: and the Gentleman, though much againſt his will, and to his very great prejudice, is faign to take his leave, and quietly depart; to the diſſatisfaction alſo of ſundry other Perſons, judg'd to be moderate, and diſcreet; yet no way further concern'd, then as oblig'd by their own good Nature, and a juſt Com<g ref="char:EOLhyphen"/>paſſion: But the honeſt man muſt content himſelf to be gone; and leave thoſe tender hearted Gallants, who were reſolv'd on his excluſion, to injoy this their worthy Reſolution, together with its bleſſed Effects. Nay he ſhould have conceiv'd himſelf very favorably dealt withall, could he have thus eſcaped: But he is no ſooner gone, beyond any further Apprehenſions from that little Creature, which was the object of his Antipathy; but he is eagerly purſued by another ſort, whom he never provok'd; to whom he always bore a great good will; and who not long before fawn'd on him, pretending no leſs then a cordial Friendſhip.</p>
+            <p>One, being a little more tender mouth'd, in a whining note, both ſeems to pitty, and at once accuſes him of folly and madneſs: It is pitty, ſays he; The man was ſomeway hopeful, it is great pitty; that he ſhould thus force himſelf out of our Society, and be undone; but he had ever a little Crochet, or two in his Brains; and is ſtill troubled with a Whim: Another more uncivilly accuſes him of Incivility; and
+<pb n="7" facs="tcp:133299:4"/>tells the World it was a very great Rudeneſs, and want of good Man<g ref="char:EOLhyphen"/>ners, that he would not comply with his betters: but be humerſome, and froward, and leave their worthy, and worſhipful Company for an harmleſs Cat. A third is yet more ſevere, and charges him with downright faction, and ſedition; will not allow him to be leſs then an Enemy to all good order; a ſon of <hi>Belial;</hi> neither fit for Society, nor to live under the protection of wholſome Laws. But he opens to ſome purpoſe, and delivers himſelf with a full mouth, who would have no more regard had of the poor man, then of Inſects which breed out of our excrementitious ſweat: that is, in plain Engliſh, he ſhould be crack'd, as one would crack a lowſe: he had this Wittiſm no doubt at his fingers end; his Choler might afford him a fit occaſion for that pretty fancy.</p>
+            <p>With this, or the like noiſe the poor ſecluded perſon is perpetually hound, and Worryed: and they will all this while bear us in hand, that he alone is troubleſome, clamorous, and what not? when, alas! the man would have tarried with all his Heart: It was his real deſire, and earneſt indeavour, he ſtrove to do it with his might: But it was not within his power to command his Antipathy: and it is his ſad Affl<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ction, that he was forc'd to do himſelf the unkindneſs to leave the Company; for whom he ſtill retains a Cordial Affection.</p>
+            <p>Now the enquiry is, (ſuppoſe this Story true, in all its material Circumſtances) on whom the blame deſerves to be faſten'd? either on this Gentleman; who (forc'd by a real and unconquerable Antipathy) withdraws himſelf; or the others (who for what they themſelves acknowledg an impertinence) have compell'd him ſo to do: And who it is, that (in good earneſt) is humerſome, uncharitable, and begot the ſeperation, with its Conſequences: And ſo in effect, who it is (if any) that deſerves the ill language, which is above beſtow'd on the ſecluded perſon.</p>
+            <p>To this purpoſe was the parable. The Application of it was to the Caſe of Nonconformity: That ſeveral ſober Miniſters have had an Averſation, not unlike that Antipathy (both known, real, and of which they could not cure themſelves) againſt Humane Preſumptions, ſuper-induc'd to the Worſhip of God, is notoriouſly evident, both from the many (and I think not yet anſwered) Writings on that ſubject, ever ſince the date of the <hi>Lincoln-ſhire</hi> Abridgment; as alſo, from the Severity, and prejudices they have not refuſed to undergo, on that Account. Nor do I believe, that, by any overt Act, it can be proved, but that they were indeed diſſatisfied; as unable to beare thoſe little
+<pb n="8" facs="tcp:133299:5"/>Things; as that Gentleman the preſence of the little Creature: I alſo conceive: that our Apprehenſions and Judgments, about the law<g ref="char:EOLhyphen"/>fullneſs of ſuch Inventions, are not ſubjected to the command of our Wills, as neither had he the command of his Antipathy. That the Ceremonies, and particularly the Croſs in Baptiſm,
+<note place="margin">Mr. <hi>Hooper</hi> alſo the Martyr boggled at Ceremonies; the Conteſt was hot at <hi>Frank<g ref="char:EOLhyphen"/>ford</hi> in Queen <hi>Marys</hi> days; Biſhop <hi>Ridly</hi> before his Mar<g ref="char:EOLhyphen"/>tyrdom retracted his urging their uſe.</note> (for I am not here to mention other Exceptions) is a plain Impertinence, is no leſs evident, from the book of Canons; to which we are commonly ſent for ſatisfact<g ref="char:EOLhyphen"/>ion: where it is roundly ſaid; that the Or<g ref="char:EOLhyphen"/>dinance is never the better, if it be uſed; nor worſe if it be omitted: The words are theſe. <hi>Can.</hi> 30. p. 31. The ſign of the Croſs, being afterwards uſed, doth-nither add any thing to the Vertue, and perfection of Baptiſm, nor being omitted, doth detract any thing from the Effect, and ſub<g ref="char:EOLhyphen"/>ſtance of it: That it was once in the power of ſome Divines, (and I know not but it may be at this preſent) to have omitted this imperti<g ref="char:EOLhyphen"/>nence, had they ſo pleaſed, is I ſuppoſe undeniable: Which however they have choſen to retain, not the Ejection of one onely perſon, but of ſeveral Hundreds, ſome ſay thouſands, who might poſſibly have been uſeful in the Church; and to the moſt probable Ruine, both of themſelves and Families, and the perpetuating of endleſs Diviſions: what good language has been ſince beſtowed on them, and how liber<g ref="char:EOLhyphen"/>ally, may be ſeen: In Toleration Diſcuſſed; Eccleſiaſtick Polity; Goulds preface to his Late Sermon; and in another preface to a better Diſcourſe; (where I will aſſure you, the brisk humor of that Modern profeſſor of Controverſies has not jaded him) and in ſundry other Pamphlets: Now, as to the equity of the Caſe; let any one, who has any love to Mankind, (not to ſpeak of Chriſtian Charity) be the judge. I might here have inlarg'd: But I have choſen to contract what I had to ſay into a narrow Compaſs; being reſolved to confine my ſelf to this paper. <hi>Farewel,</hi> and love ſuch as dare not intrench on the un<g ref="char:EOLhyphen"/>doubted Rights of the Humane nature.</p>
+            <closer>
+               <signed>Thine, &amp;c.</signed>
+            </closer>
+            <pb facs="tcp:133299:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
